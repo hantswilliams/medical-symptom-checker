@@ -2,7 +2,7 @@
 
 ## To do: 
 - Optimize the data dictionary / mapping file currently provided so it contains ICD-10/11 codes
-- Look at `UMLS Metathesaurus Browser` API/browser to expand on and auto-generated the list of conditions-mappings file 
+- Look at `UMLS Metathesaurus Browser` API/browser to expand on and auto-generated the list of conditions-mappings file // https://uts.nlm.nih.gov/uts/umls/home // currently waiting on lisence approval for hXXX.wXXXX AT stonybrook DOT EdU
 
 
 
