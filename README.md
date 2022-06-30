@@ -14,6 +14,8 @@
     ### Gene Cards (includes symptons, phenotypes, drugs and therapuetics, etc...) 
         - https://www.malacards.org/
         - Example: SCD // https://www.malacards.org/card/sickle_cell_disease?search=sickle%20cell%20disease 
+    ### Disease-ontology 
+        - https://disease-ontology.org/downloads/
     ### JAMA Human symptoms–disease network
         - paper/nice approach outlined -> https://www.nature.com/articles/ncomms5212 // suplemental data provided: 
         - Supplementary Data 3: Term co-occurrences between symptoms and diseases measured by TF-IDF weighted values. This table includes 147,978 records of symptom and disease relationships. (TXT 7797 kb)
